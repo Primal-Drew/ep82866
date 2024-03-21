@@ -1,0 +1,9 @@
+# REQUIREMENTS
+## DESCRIPTION
+Operating a motor using the esp8266.
+
+## ADDITIONAL REQUIREMENTS
+To-Do
+
+## RESOURCES
+To-do
